@@ -1,2 +1,3 @@
 numero="1"
-print(numero)
+for i in range(3):
+	print(numero)
